@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Licence | Docstra",
+    title: "Licence | Docsta",
 };
 
 export default function LicensePage() {

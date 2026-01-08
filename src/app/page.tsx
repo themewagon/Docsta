@@ -6,7 +6,7 @@ import Sponsors from "./components/home/sponsors";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "Docstra",
+    title: "Docsta",
 };
 
 export default function Home() {

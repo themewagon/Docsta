@@ -5,7 +5,7 @@ import { Metadata } from 'next'
 import DocumentationPage from '@/app/components/documentation'
 
 export const metadata: Metadata = {
-  title: 'Documentation | Docstra',
+  title: 'Documentation | Docsta',
 }
 
 export default async function DocPage({ params }: any) {

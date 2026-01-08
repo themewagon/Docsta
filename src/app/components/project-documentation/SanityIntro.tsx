@@ -59,7 +59,7 @@ const SanityIntro = () => {
                                 <p className="text-xl text-secondary dark:text-white" >|—</p>
                                 <span className="font-medium text-secondary dark:text-white">
                                     <Image src={"/images/icon/folder-icon.svg"} alt="folder-icon" width={16} height={16} className="text-primary text-base inline-block me-2" />
-                                    docstra-docs/
+                                    Docsta-docs/
                                 </span>
                             </div>
                             <div className="flex">
